@@ -1,0 +1,16 @@
+[
+{
+  "modid": "inventoryswitcher",
+  "name": "Inventory Switcher",
+  "description": "Quickly switch between inventories.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["shadywatcher212"],
+  "credits": "shadywatcher212 and the github project at https://www.github.com/shadywatcher212/InventorySwitcher",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
